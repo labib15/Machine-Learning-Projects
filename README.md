@@ -1,6 +1,6 @@
 # Machine-Learning-Projects
 
-##Machine Vision
+## Machine Vision
 
 
-##Natural Language Processing
+## Natural Language Processing
